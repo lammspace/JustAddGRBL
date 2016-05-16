@@ -25,7 +25,15 @@ hack.
 
 # References
 
+## Hardware
+
 * https://grahamwideman.wikispaces.com/Laser+cutter+--+Leetro+controller
 * https://wiki.london.hackspace.org.uk/view/Project:RELaserSoftware
 * http://www.leetro.com/down/MPC6515%20%20Manual.pdf
 * http://www.jwtech.co.th/downloadjwtech/easyview/easyviewmanual/eb8000Manual.pdf
+
+## Modbus
+
+* https://pymodbus.readthedocs.io/en/latest/
+* http://www.modbus.org/docs/Modbus_over_serial_line_V1_02.pdf
+* http://libmodbus.org/documentation/
